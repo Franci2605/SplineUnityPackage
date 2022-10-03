@@ -1,0 +1,20 @@
+{
+  "name": "com.myspline.splinepackage",
+  "version": "1.0.0",
+  "displayName": "Spline",
+  "description": "This package allows you to add a generic spline to create a default path for an NPC or object",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://docs.google.com/document/d/1XQ1F4HgprcdJG_D98wel30iJ_zoHcReVRkTM1KRDPBw/edit?usp=sharing",
+  "dependencies": {
+  },
+  "keywords": [
+    "Library",
+    "Utility"
+  ],
+  "author": {
+    "name": "Francesco Cimino",
+    "email": "francesco.cimino.work@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
